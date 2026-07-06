@@ -35,12 +35,15 @@ Welcome to the official repository of Smart Switch V2.0, an advanced automation 
 
 ### System Schematic
 Here is the full system schematic showing the isolation barriers between the low-voltage MCU side and the high-voltage 220V AC rails:
-(Add your schematic image here)
+<img width="942" height="682" alt="image" src="https://github.com/user-attachments/assets/bbfe896b-4486-4e6e-b204-cae0bd9ac2c6" />
+
 
 ### 3D PCB Layout - Top View
 Showcases the compact arrangement of the HLK-PM01, the dual power relays, and the clean routing of the communication lines:
-(Add your top view image here)
+<img width="643" height="503" alt="2" src="https://github.com/user-attachments/assets/99cafa27-6dc6-42c8-8476-a121d1f63c8b" />
+
 
 ### 3D PCB Layout - Bottom View
 Highlights the massive high-current copper polygons, the custom 2mm clearance gaps, the isolation slots cut into the PCB substrate for arc avoidance, and the exposed solder mask paths designed for physical tin reinforcement:
-(Add your bottom view image here)
+<img width="757" height="562" alt="1" src="https://github.com/user-attachments/assets/3d748d87-1cb8-4a36-9b9e-e127b64f1a1f" />
+
